@@ -3,6 +3,7 @@ requests
 scipy
 numpy
 matplotlib
+matplotlib.pyplot
 pandas
 google.generativeai
 math
