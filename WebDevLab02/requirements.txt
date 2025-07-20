@@ -1,0 +1,11 @@
+streamlit
+requests
+scipy
+numpy
+matplotlib
+pandas
+google.generativeai
+math
+json
+datetime
+sgp4.api
